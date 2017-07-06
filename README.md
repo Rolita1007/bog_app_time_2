@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,7 +22,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-=======
-# bog_app_time_2
->>>>>>> e6ebc4702e7379811a35092885e2b73081bf1c1e
